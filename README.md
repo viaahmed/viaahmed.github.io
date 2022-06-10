@@ -1,15 +1,13 @@
+# [Home](https://viaahmed.github.io) | [Blog](https://viaahmed.github.io/blog.html) | [Contact](https://viaahmed.github.io)
+
 ## Welcome to My site (Its under setup)
 
-[Click here to open the Data file](https://docs.google.com/spreadsheets/d/1vhnYmZqUm13jyKrW3mx6O2RlUMeT37wQ8kxJc18T8qk/edit?usp=sharing)
+👋 Hi!
+I am Ahmed Muddasir.
+This is my personal site. I use it to host any files I want to share with the world. 
 
-You can use the [editor on GitHub](https://github.com/viaahmed/viaahmed.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. [[Commit]] 
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What you do?
+I use markdown, a text formatting language. It uses syntax to format text. The available syntax are illustrated below:
 
 ```markdown
 Syntax highlighted code block
@@ -33,8 +31,10 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/viaahmed/viaahmed.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This site uses the layout and styles from the Jekyll theme I have selected in my [repository settings](https://github.com/viaahmed/viaahmed.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+[Click here to open the Data file](https://docs.google.com/spreadsheets/d/1vhnYmZqUm13jyKrW3mx6O2RlUMeT37wQ8kxJc18T8qk/edit?usp=sharing)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with setting up your own Pages? Check out GitHub's [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and they’ll help you sort it out.
