@@ -1,4 +1,4 @@
-# <u>[Home](https://viaahmed.github.io) | [Blog](https://viaahmed.github.io/blog.html) | [Contact](https://viaahmed.github.io)</u>
+# [Home](https://viaahmed.github.io) | [Blog](https://viaahmed.github.io/blog.html) | [Contact](https://viaahmed.github.io)
 
 ## Welcome to My site (Its under setup)
 
@@ -6,8 +6,8 @@
 I am Ahmed Muddasir.
 This is my personal site. I use it to host any files I want to share with the world. 
 
-## What you do?
-I use markdown, a text formatting language. It uses syntax to format text. The available syntax are illustrated below:
+## What do I do?
+I use markdown, a text formatting language 😉. It uses syntax to format text. The available syntax are illustrated below:
 
 ```markdown
 Syntax highlighted code block
