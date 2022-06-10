@@ -1,6 +1,8 @@
 Welcome
 
-# [Home](https://viaahmed.github.io) | [Blog](https://viaahmed.github.io/blog.html) | [Contact](https://viaahmed.github.io)
+# [Home](https://viaahmed.github.io) | [Blog](https://viaahmed.github.io/blog.html) | [Contact](https://viaahmed.github.io/contact.html)
+
+---
 
 ## Welcome to My site (Its under setup)
 

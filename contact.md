@@ -1,6 +1,8 @@
 Contact
 
-# [Home](https://viaahmed.github.io) | [Blog](https://viaahmed.github.io/blog.html) | [Contact](https://viaahmed.github.io)
+# [Home](https://viaahmed.github.io) | [Blog](https://viaahmed.github.io/blog.html) | [Contact](https://viaahmed.github.io/contact.html)
+
+---
 
 Assuming you don't have time to open your mail and send me a message, I have placed this Google form for you to quickly send me a message. Depending on how busy I am, I will respond within one day to one week.
 

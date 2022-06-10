@@ -1,6 +1,8 @@
 Blog
 
-# [Home](https://viaahmed.github.io) | [Blog](https://viaahmed.github.io/blog.html) | [Contact](https://viaahmed.github.io)
+# [Home](https://viaahmed.github.io) | [Blog](https://viaahmed.github.io/blog.html) | [Contact](https://viaahmed.github.io/contact.html)
+
+---
 
 ## Using Flowchart.fun to create flow charts
 
@@ -19,7 +21,7 @@ Go through this links to explore it.
 
 **Link with editor**
 
-https://flowchart.fun/c#H4hQBcAsFMFtoFwAID2AnAlgcwwOwIYA2AtACb5oDWoh+AnigK7gKhJJr66UAiGayADIAlUCGCgA6jCjQ0SfEhwA3aLgUBjcBmUZwdJBgDOSI4wAO5wnQD8bJBpgbKyY4fBIAyo+ilGhaCQASRDNbV19O3Z2AE1oI2QAORQPRTNLayRAGXJ7dmTkH2dDEz0vaC0MFHUAdgAKAEoAJgaAIzCdPVtc6LiEpGTU0wsrAxzo6PyHJ0pi9yQAM3QHKqMMUjl8bSqo8d3Jwpm3Uu8YPwDg9oiu3ZukXuQgjzc04czAXg3AGT3u2-6UJJSFEMMqNvrt7lNyocSh5FvIWoxVrh4iZzIw0OYUEZoKCbuDHrMXsCkJ8cXs-uwgtCFOoMLAMWgPCh5qY5LoNNAdj9xniniZCSNiV8uWT-oN0gKckA
+[Edit the above diagram](https://flowchart.fun/c#H4hQBcAsFMFtoFwAID2AnAlgcwwOwIYA2AtACb5oDWoh+AnigK7gKhJJr66UAiGayADIAlUCGCgA6jCjQ0SfEhwA3aLgUBjcBmUZwdJBgDOSI4wAO5wnQD8bJBpgbKyY4fBIAyo+ilGhaCQASRDNbV19O3Z2AE1oI2QAORQPRTNLayRAGXJ7dmTkH2dDEz0vaC0MFHUAdgAKAEoAJgaAIzCdPVtc6LiEpGTU0wsrAxzo6PyHJ0pi9yQAM3QHKqMMUjl8bSqo8d3Jwpm3Uu8YPwDg9oiu3ZukXuQgjzc04czAXg3AGT3u2-6UJJSFEMMqNvrt7lNyocSh5FvIWoxVrh4iZzIw0OYUEZoKCbuDHrMXsCkJ8cXs-uwgtCFOoMLAMWgPCh5qY5LoNNAdj9xniniZCSNiV8uWT-oN0gKckA)
 
 ### Getting started
 
@@ -31,8 +33,9 @@ https://flowchart.fun/c#H4hQBcAsFMFtoFwAID2AnAlgcwwOwIYA2AtACb5oDWoh+AnigK7gKhJJ
 
 **Link with editor**
 
-https://flowchart.fun/c#CoCw9grg5iAEAuICWBnWBDADp2rYGMwwAbAGl3lhHTRTAFsBTWYpepedeJMAOxQB0AKFiwAcmAEBGAFywAmpALpesXmEoQUzTOgBOKxI21oVAE1goAjhH3MARgfwBrRvBQjRsAO5g9z-UheMzktZkQ8b0Z7FA5wsFhGXkIzZiReeATGMw4-WAAzPSQks2IATwRGAA9KAFpYCD1iJJTGPQE-KE8JAQAmOVBmPUZ8tpb0qFw0fBpmcwJqJ3g2yyTY7gA3Rk9RX39AiGDQ7QItTPoG3iQbNLM0bxAxxK29NUZ8YxR9Mu7JWABmAbINB4MqQV75JB6FCUFpBZavbwcOBGBBEMiwMx8ADklFGjGIsDBEGUvFxLEY+lUHGEXh8fgCeiCIQKUJhDRO6Fg9iIzgwwVgmCSaJ8RWWCEelk4yyYGVMArCErm2AEoiAA
+[Edit the above diagram](https://flowchart.fun/c#CoCw9grg5iAEAuICWBnWBDADp2rYGMwwAbAGl3lhHTRTAFsBTWYpepedeJMAOxQB0AKFiwAcmAEBGAFywAmpALpesXmEoQUzTOgBOKxI21oVAE1goAjhH3MARgfwBrRvBQjRsAO5g9z-UheMzktZkQ8b0Z7FA5wsFhGXkIzZiReeATGMw4-WAAzPSQks2IATwRGAA9KAFpYCD1iJJTGPQE-KE8JAQAmOVBmPUZ8tpb0qFw0fBpmcwJqJ3g2yyTY7gA3Rk9RX39AiGDQ7QItTPoG3iQbNLM0bxAxxK29NUZ8YxR9Mu7JWABmAbINB4MqQV75JB6FCUFpBZavbwcOBGBBEMiwMx8ADklFGjGIsDBEGUvFxLEY+lUHGEXh8fgCeiCIQKUJhDRO6Fg9iIzgwwVgmCSaJ8RWWCEelk4yyYGVMArCErm2AEoiAA)
 
 
 ### Now your turn
 
+---
