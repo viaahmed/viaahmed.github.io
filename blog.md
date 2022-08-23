@@ -8,14 +8,17 @@ Blog
 ## How to download Tableau Public without filling the form.
 
 *By Muddasir ● Date: 23-08-2022 ● Reading time: 1 minutes*
+
 ---
 When you go to tableau download page to download Tableau Public from the offical website, you can't get to the software unless you fill a form. I personally resented this, especially when, even after signing up you can get to the file. 
 
-Actually there is a bug in the website. Or it could be just what is know as [dark patterns](https://en.wikipedia.org/wiki/Dark_pattern#:~:text=A%20dark%20pattern%20(also%20known,signing%20up%20for%20recurring%20bills%22.), forcing you to give your details.
+Actually there is a bug in the website. Or it could be just what is know as [dark patterns](https://en.wikipedia.org/wiki/Dark_pattern), forcing you to give your details.
 
-CLick on this download link to get the 64 bit version of Tableau 2022.
+Though I couldn't get better way to get all files that could be downloaded, I am just sharing thre URL to the Tableau Public Setup.
 
-<a class="btn" href="https://downloads.tableau.com/public/TableauPublicDesktop-64bit-2022-2-0.exe"><i class="fa fa-download"></i>Download https://downloads.tableau.com/public/TableauPublicDesktop-64bit-2022-2-0.exe</a>
+Click on this download link to get the 64 bit version of Tableau 2022. 
+
+<a class="btn" href="https://downloads.tableau.com/public/TableauPublicDesktop-64bit-2022-2-0.exe"><i class="fa fa-download"></i> Download https://downloads.tableau.com/public/TableauPublicDesktop-64bit-2022-2-0.exe</a>
 
 ---
 ---
