@@ -4,32 +4,28 @@ Blog
 # [Home](https://viaahmed.github.io) | [Blog](https://viaahmed.github.io/blog.html) | [Contact](https://viaahmed.github.io/contact.html)
 
 ---
-<details>
-<summary>
+
 ## How to download Tableau Public without filling the form.
 
 *By Muddasir ● Date: 23-08-2022 ● Reading time: 1 minutes*
-</summary>
-<p>
+---
 When you go to tableau download page to download Tableau Public from the offical website, you can't get to the software unless you fill a form. I personally resented this, especially when, even after signing up you can get to the file. 
 
 Actually there is a bug in the website. Or it could be just what is know as [dark patterns](https://en.wikipedia.org/wiki/Dark_pattern#:~:text=A%20dark%20pattern%20(also%20known,signing%20up%20for%20recurring%20bills%22.), forcing you to give your details.
 
 CLick on this download link to get the 64 bit version of Tableau 2022.
 
-https://downloads.tableau.com/public/TableauPublicDesktop-64bit-2022-2-0.exe
+<a class="btn" href="https://downloads.tableau.com/public/TableauPublicDesktop-64bit-2022-2-0.exe"><i class="fa fa-download"></i>Download https://downloads.tableau.com/public/TableauPublicDesktop-64bit-2022-2-0.exe</a>
 
-<a class="btn" href="https://downloads.tableau.com/public/TableauPublicDesktop-64bit-2022-2-0.exe"><i class="fa fa-download"></i>Download</a>
-</p>
-</details>
-<details>
+---
+---
 
-<summary>
 ## Using Flowchart.fun to create flow charts
 
 *By Muddasir ● Date: 10-06-2022 ● Reading time: 4 minutes*
-</summary>
-<p>
+
+---
+
 ### Intro
 
 🤔 Remember a ⌚ time when you were trying to ✏ draw a big flow chart or 🧠 Mind map, how difficult was it. The 💻 tools we usually use like MS Power Point or MS Word don't give easy option to draw simple diagrams. It is so messy to use a mouse and keep dragging things from here to there 😢.
@@ -60,6 +56,4 @@ Go through this links to explore it.
 
 ### Now your turn
 
-</p>
-</details>
 ---
